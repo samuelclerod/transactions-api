@@ -18,8 +18,8 @@ Aplicação com objetivo de testa ferramentas como fastify, knex e vitest
 
 [x] A trasação pode ser do tipo crédito que somará o valor total, ou débito que será subtraído do valor total;
 
-[] Deve ser possível identificar o usuário entre as transações;
+[x] Deve ser possível identificar o usuário entre as transações;
 
-[] O usuário só pode visualizar transações o qual ele criou;
+[x] O usuário só pode visualizar transações o qual ele criou;
 
 ## Requisitos não funcionais
